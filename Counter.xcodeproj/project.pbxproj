@@ -49,6 +49,7 @@
 		4A7700881F220A38004536D5 /* CounterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CounterUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4A77008C1F220A38004536D5 /* CounterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounterUITests.swift; sourceTree = "<group>"; };
 		4A77008E1F220A38004536D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4A77009B1F220AA4004536D5 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -315,6 +316,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4A7700761F220A38004536D5 /* Base */,
+				4A77009B1F220AA4004536D5 /* en */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
